@@ -1,0 +1,20 @@
+/*--
+	Theme Name: theme52088
+	Theme URI: http://info.template-help.com/help/
+	Description: A theme for Wordpress 3.8.x
+	Author: Template_Help.com
+	Author URI: http://info.template-help.com/help/
+	Template: CherryFramework
+	Version: 3.1.2
+--*/
+
+/* ----------------------------------------
+	Please, You may put custom css here
+---------------------------------------- */
+
+body {
+	font-family: "Arial", sans-serif;
+}
+h1 small {
+	color: black;
+}
